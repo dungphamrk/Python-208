@@ -12,19 +12,19 @@
     "student_id": "SV002",
     "name": "Trần Thị Bình",
     "math_score": 6.5,
-    "physics_score": 7.5,
+    "physics_score": 8.0,
     "chemistry_score": 6.0,
-    "avg_score": 6.67,
+    "avg_score": 6.83,
     "classification": "Khá"
   },
   {
     "student_id": "SV003",
     "name": "Lê Hoàng Cường",
-    "math_score": 5.0,
-    "physics_score": 5.5,
-    "chemistry_score": 5.0,
-    "avg_score": 5.17,
-    "classification": "Trung Bình"
+    "math_score": 7.0,
+    "physics_score": 6.5,
+    "chemistry_score": 6.0,
+    "avg_score": 6.5,
+    "classification": "Khá"
   },
   {
     "student_id": "SV004",
@@ -38,10 +38,55 @@
   {
     "student_id": "SV005",
     "name": "Hoàng Văn Em",
-    "math_score": 4.0,
-    "physics_score": 4.5,
-    "chemistry_score": 3.5,
-    "avg_score": 4.0,
+    "math_score": 5.0,
+    "physics_score": 5.5,
+    "chemistry_score": 5.0,
+    "avg_score": 5.17,
+    "classification": "Trung Bình"
+  },
+  {
+    "student_id": "SV006",
+    "name": "Vũ Thị Hà",
+    "math_score": 8.0,
+    "physics_score": 8.5,
+    "chemistry_score": 7.5,
+    "avg_score": 8.0,
+    "classification": "Giỏi"
+  },
+  {
+    "student_id": "SV007",
+    "name": "Đặng Minh Khang",
+    "math_score": 6.0,
+    "physics_score": 6.0,
+    "chemistry_score": 6.5,
+    "avg_score": 6.17,
+    "classification": "Trung Bình"
+  },
+  {
+    "student_id": "SV008",
+    "name": "Ngô Thị Linh",
+    "math_score": 9.5,
+    "physics_score": 9.0,
+    "chemistry_score": 9.0,
+    "avg_score": 9.17,
+    "classification": "Giỏi"
+  },
+  {
+    "student_id": "SV009",
+    "name": "Trương Văn Mạnh",
+    "math_score": 3.0,
+    "physics_score": 4.0,
+    "chemistry_score": 2.5,
+    "avg_score": 3.17,
     "classification": "Yếu"
+  },
+  {
+    "student_id": "SV010",
+    "name": "Phan Thị Nga",
+    "math_score": 7.0,
+    "physics_score": 7.0,
+    "chemistry_score": 7.0,
+    "avg_score": 7.0,
+    "classification": "Khá"
   }
 ]
